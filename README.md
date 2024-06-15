@@ -22,6 +22,8 @@ This project leverages the following technologies:
 • Pandas
 • Logistic Regression
 • Random Tree Classifier
+• SVM
+• Decision Tree
 • Streamlit
 
 # SAMPlE VIEW 
