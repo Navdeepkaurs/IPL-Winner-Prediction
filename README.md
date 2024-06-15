@@ -15,6 +15,10 @@ prompted:
 • Wickets: The number of wickets lost.
 • Target Runs: The total runs scored by a bowling team.
 
+# DATASET USED 
+• matches.csv
+• deliveries.csv
+
 # LIBRARIES USED
 This project leverages the following technologies:
 • Python
